@@ -9,8 +9,8 @@ public class connection {
 		try {
 			
 			String con = "jdbc:mysql://localhost/banco_curso?useTimezone=true&serverTimezone=UTC";
-			String user = "root";
-			String pass = "881155";
+			String user = "";
+			String pass = "";
 			
 		
 			Connection conexao = DriverManager.getConnection(con ,user, pass);
