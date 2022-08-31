@@ -97,7 +97,7 @@ public class ListaC {
 	
 	public static void QuestaoQuatro(int n, int k) {
 		
-		//n = moedas
+		//n = moedas exibir enunciado
 		//k = quantidade de pessoas
 		/*
 		 * 	Evan  ́e um cachorro que gosta muito de moedas. Ele encontrou um ba ́u transparente com n moedas
